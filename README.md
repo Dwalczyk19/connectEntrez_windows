@@ -1,7 +1,7 @@
 # connectEntrez_windows
 ```
 pip install -r requirements.txt
-'''
+```
 
 Download python if not already done. Optional to set up a venv.
 
