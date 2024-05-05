@@ -1,0 +1,4 @@
+wheel == 0.40.0
+ncbi-datasets-pylib == 15.9.1
+pandas == 2.0.3
+biopython == 1.81
